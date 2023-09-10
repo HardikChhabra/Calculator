@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
             currentCalculation = result;
           } catch (error) {
             // If there is an error, display "Error"
-            display.value = "Error";
+            display.value = "Lodu!";
             currentCalculation = "";
             result = "";
           }
